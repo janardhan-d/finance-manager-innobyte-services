@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.o
+*.so
+
+# Database files
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE configuration
+.idea/
+
+# OS-specific files
+.DS_Store
+
+# Generated images
+monthly_trend.png
+category_breakdown.png
