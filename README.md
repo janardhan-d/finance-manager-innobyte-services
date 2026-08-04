@@ -156,13 +156,3 @@ Python Developer | Tkinter GUI | Backend Development
 Give the repository a **star** ⭐ on GitHub — it helps a lot!
 
 ---
-
-If you want, I can also generate:
-
-✨ A professional **project logo**  
-✨ A **GIF demo** banner  
-✨ A **release version**  
-✨ A **CONTRIBUTING.md** file  
-✨ A **requirements.txt** file  
-
-Just tell me what you want next.
